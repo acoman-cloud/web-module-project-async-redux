@@ -24,7 +24,7 @@ In this project you'll choose an api to consume. You will build an application f
 
 - [ ] Create a forked copy of this project.
 - [ ] Start up the app using `npm start`.
-- [ ] Add your code into teh `\src` folder.
+- [ ] Add your code into teeh `\src` folder.
 
 ### Task 2: Minimum Viable Product
 
